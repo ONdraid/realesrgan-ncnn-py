@@ -1,6 +1,7 @@
 [submodule "src/Real-ESRGAN-ncnn-vulkan"]
 	path = src/Real-ESRGAN-ncnn-vulkan
 	url = https://github.com/ONdraid/Real-ESRGAN-ncnn-vulkan
+	branch = master
 [submodule "src/pybind11"]
 	path = src/pybind11
 	url = https://github.com/pybind/pybind11
