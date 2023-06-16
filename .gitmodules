@@ -4,3 +4,5 @@
 [submodule "src/pybind11"]
 	path = src/pybind11
 	url = https://github.com/pybind/pybind11
+[submodule "C:\\Users\\Ondra.DESKTOP-T9K4QOL\\Documents\\Rust\\realesrgan-ncnn-py\\src\\Real-ESRGAN-ncnn-vulkan"]
+	url = https://github.com/ONdraid/Real-ESRGAN-ncnn-vulkan
