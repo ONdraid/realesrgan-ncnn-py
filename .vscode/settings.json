@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "C:/Users/Ondra.DESKTOP-T9K4QOL/Documents/Rust/realesrgan-ncnn-py/src",
+    "files.associations": {
+        "memory": "cpp",
+        "optional": "cpp"
+    }
+}
